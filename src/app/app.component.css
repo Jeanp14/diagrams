@@ -1,0 +1,15 @@
+.container{
+    padding-left: 400px;
+    margin: auto;
+}
+
+.container-fluid{
+    padding-left: 700px;
+    padding-right: 700px;
+}
+
+.nav-link{
+    /* font-weight: bold; */
+    font-style: normal;
+    font-size: x-large;
+}
